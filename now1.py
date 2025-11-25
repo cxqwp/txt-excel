@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
-
+user_name = "cxpwp"
+user_email = "SincereDreamswithJade-likeIntegrity@outlook.com"
 import tkinter as tk
 from tkinter import ttk, filedialog, messagebox
 import pandas as pd
